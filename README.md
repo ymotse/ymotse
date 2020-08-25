@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 🤔 I’m looking for help with 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -22,8 +23,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 I'm currently learning how do I make my day last longer than 24 hours 🤓 
-
-- 🤔 I’m looking for help with 
 
 - 💬 Ask me about my name 😆 
 
