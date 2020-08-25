@@ -1,4 +1,4 @@
-#### Hi 🙋‍♂ , I'm Yitshhaq, <i>Isac, Yitzchaq, Isak, Ytsraq, Isaac, Ytzaq, Izaak, Izac, Ysac, Yzak</i> 😄 <br/>
+#### Hi 🙋‍♂ , I'm Yitshhaq, or <i>Isaac, Yitzchaq, Isak, Ytsrraq, Isac, Ytzaq, Izaak, Izac, Ysac, Yzak</i> 😄 
 ##### Because of my name, since when I was a kid until today I'm eternal bullying survivor 😌✌️ 
       
 <!--
