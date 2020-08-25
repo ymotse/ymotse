@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun and polemic fact: Sometimes, the code works, but we don't know why; and sometimes, the code doesn't work, and we don't know why. 🤔 
 <br>
-I'm excited about new technologies and solutions that change people's way of life for better.
+I'm excited about technologies and solutions that change people's way of life for better. 🙂👍 
 
 #### Let's code!! ☕️ 💻 
 
