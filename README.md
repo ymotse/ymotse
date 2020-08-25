@@ -1,5 +1,6 @@
-#### Hi 🙋‍♂ , I'm Yitshhaq, <i>Isac, Isaac, Yitzchaq, Isak, Izaac, Izaak, Izac, Ysac, Yzak</i> 😄 <br/>
-       
+#### Hi 🙋‍♂ , I'm Yitshhaq, <i>Isac, Yitzchaq, Isak, Ytsraq, Isaac, Ytzaq, Izaak, Izac, Ysac, Yzak</i> 😄 <br/>
+##### Because of my name, since when I was a kid until today I'm eternal bullying survivor 😌✌️ 
+      
 <!--
 **ymotse/ymotse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
