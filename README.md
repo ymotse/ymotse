@@ -35,4 +35,4 @@ I'm excited about new technologies and solutions that change people's way of lif
 
 #### Let's code!! ☕️ 💻 
 
-<img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
+<img src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"/>
