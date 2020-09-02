@@ -1,5 +1,5 @@
-#### Hi 🙋‍♂ , I'm Yitshhaq, or <i>Isaac, Yitzchaq, Isak, Ytsrraq, Isac, Ytzaq, Izaak, Izac, Ysac, Yzak</i> 😄 
-##### Because of my name, since when I was a kid until today I'm eternal bullying survivor 😌✌️ 
+<h4 align="center"> Hi 🙋‍♂ , I'm Yitshhaq, or <i>Isaac, Yitzchaq, Isak, Ytsrraq, Isac, Ytzaq, Izaak, Izac, Ysac, Yzak</i> 😄 </h4>
+<h6 align="center"> Because of my name, since when I was a kid until today I'm eternal bullying survivor 😌✌️ </h6>
       
 -----------------------------------------------------------
 
