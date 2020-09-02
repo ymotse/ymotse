@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------------
 
-#### Let's code!! ☕️ 💻 
+<h3> Let's code!! ☕️ 💻 </h3>
 
 <img src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"/>
