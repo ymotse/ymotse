@@ -1,6 +1,8 @@
 #### Hi 🙋‍♂ , I'm Yitshhaq, or <i>Isaac, Yitzchaq, Isak, Ytsrraq, Isac, Ytzaq, Izaak, Izac, Ysac, Yzak</i> 😄 
 ##### Because of my name, since when I was a kid until today I'm eternal bullying survivor 😌✌️ 
       
+-----------------------------------------------------------
+
 <!--
 **ymotse/ymotse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,15 +25,17 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-ymotse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ymotse@gmail.com)](mailto:ymotse@gmail.com)
 
 
-- 🌱 I'm currently learning how do I make my day last longer than 24 hours 🤓 
+- 🌱 I'm currently <b>learning</b> how do I make my day last longer than 24 hours 🤓 
 
-- 💬 Ask me about my name 😆 
+- 💬 <b>Ask</b> me about my name 😆 
 
-- 😄 Pronouns: I/You/We 💻 
+- 😄 <b>Pronouns</b>: I/You/We 💻 
 
-- ⚡ Fun and polemic fact: Sometimes, the code works, but we don't know why; and sometimes, the code doesn't work, and we don't know why. 🤔 
-<br>
-I'm excited about technologies and solutions that change people's way of life for better. 🙂👍 
+- ⚡ <b>Fun</b> and <b><del>polemic fact</del></b>: Sometimes, the code works, but we don't know why; and sometimes, the code doesn't work, and we don't know why. 🤔 
+
+- ❤️ <b>I'm excited</b> about technologies and solutions that change life way of people for better. 🙂👍  
+
+-----------------------------------------------------------
 
 #### Let's code!! ☕️ 💻 
 
