@@ -1,4 +1,4 @@
-<h4 align="center"> Hi 👨🏻‍💻, I'm Yitshhaq, or <i>Isaac, Yitzchaq, Isak, Ytsrraq, Isac, Ytzaq, Izaak, Izac, Ysac, Yzak</i> 😄 </h4>
+<h4 align="center"> Hi 👨🏻‍💻, I'm Yitshhaq, or <i>Isaac, Ytsrraq, Isac, Ytzaq, Yitzchaq, Isak, Izaak, Izac, Ysac, Yzak</i> 😄 </h4>
 <h5 align="center"> Because of my name, since when I was a kid until today I'm eternal bullying survivor 😌✌️ </h5>
       
 -----------------------------------------------------------
