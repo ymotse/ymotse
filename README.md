@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------------
 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ymotse&exclude_repo=be-the-hero-web,learning-redux,proffy-mobile,be-the-hero-mobile,netflix-clone-web,proffy-web,github-search-repos-mobile,react_native_estudos&hide=classic%20asp,typescript,ruby,html,tsql,css,starlark,scss,objective-c,roff,shell,batchfile&layout=compact&langs_count=10&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Server%20Side)   ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ymotse&hide=scss,classic%20asp,tsql,roff,shell,java,php,asp,batchfile,ruby,starlark,objective-c,python&layout=compact&langs_count=10&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Client%20Side)
+
+
+
+
 <h3> Let's code!! ☕️ 💻 </h3>
 
 <img src="https://media0.giphy.com/media/E6jscXfv3AkWQ/giphy.gif"/>
