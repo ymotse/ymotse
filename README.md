@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 - 💬 <b>Ask</b> me about my name 😆 
 
-- 😄 <b>Pronouns</b>: I/You/We 💻 
-
 - ⚡ <b>Fun</b> and <b><del>polemic fact</del></b>: Sometimes, the code works, but we don't know why; and sometimes, the code doesn't work, and we don't know why. 🤔 
 
 - ❤️ <b>I'm excited</b> about technologies and solutions that change life way of people for better. 🙂👍  
