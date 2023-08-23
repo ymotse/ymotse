@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Yitshhaq%20Fukushima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ymotse/)](https://www.linkedin.com/in/ymotse/)
-[![Gmail Badge](https://img.shields.io/badge/-ymotse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ymotse@gmail.com)](mailto:ymotse@gmail.com)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.monopoly_machine_mobile)
 
 - 🌱 I'm currently <b>learning</b> how do I make my day last longer than 24 hours 🤓 
